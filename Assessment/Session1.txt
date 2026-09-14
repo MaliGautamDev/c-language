@@ -1,0 +1,55 @@
+1. Name 5 IT job roles and write one line about what each role does.
+
+Software Developer – Develops, maintains, and improves software applications by writing and managing code.
+
+Software Tester – Tests software applications to find bugs and ensure that they work correctly.
+
+UI/UX Designer – Designs the user interface and improves the overall user experience of an application.
+
+Data Analyst – Analyzes data to find useful information and helps businesses make better decisions.
+
+AI Engineer – Develops AI-based systems and solutions using artificial intelligence and machine learning technologies.
+
+
+2. List 3 product companies and 3 service companies with one example of what each does.
+
+Product Companies
+Google – Develops products such as Google Search, Android, Gmail, and Google Maps.
+
+Microsoft – Develops products such as Windows, Microsoft 365, and Azure.
+
+Adobe – Develops creative software products such as Photoshop, Illustrator, and Acrobat.
+
+Service Companies
+TCS (Tata Consultancy Services) – Provides IT consulting, software development, and technology services to clients.
+
+Infosys – Provides IT consulting, digital transformation, and software development services.
+
+Wipro – Provides IT services, consulting, and business process solutions to organizations.
+
+
+3. Write the full forms and one-line use of GitHub, Slack, Jira, IDE, API.
+
+1.GitHub (GitHub)
+  -Used to host, manage, and collaborate on software code repositories.
+2.Slack (Slack)
+  -Used for team communication and collaboration.
+3.Jira(Jira)
+  -Used to manage software development tasks, issues, and projects.
+4.IDE(Integrated Development Environment)
+  -Used to write, run, debug, and manage program code.
+5.API(Application Programming Interface)
+  -Allows different software applications or components to communicate with each other.
+
+4. Name any 5 programming languages and mention one popular use case for each.
+
+1.C – Used for system programming and learning programming fundamentals.
+2.C++ – Used for game development and high-performance applications.
+3.Java – Used for enterprise applications and Android development.
+4.Python – Used for artificial intelligence, machine learning, automation, and data analysis.
+5.Dart – Used for developing applications with the Flutter framework.
+
+5. What is the difference between a developer and a tester? Answer in 2 lines.
+
+1.Developer: Develops software applications by writing code and implementing features.
+2.Tester: Tests the software to find bugs and verifies that the application works correctly.
