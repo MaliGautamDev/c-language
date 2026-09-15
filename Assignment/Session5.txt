@@ -1,0 +1,72 @@
+1. Write the Git command for each: initialize a repo, stage all files, commit with a message, push to remote, pull latest changes.
+
+
+   1.Initialize a repository:
+      - git init
+
+   2.Stage all files:
+      - git add 
+
+   3.Commit with a message:
+      - git commit -m "Initial commit"
+
+   4.Push to remote repository:
+      - git push origin main
+
+   5.Pull the latest changes:
+      - git pull origin main
+
+
+2.What is the difference between git fetch and git pull? Answer in 2 lines.
+
+ 
+   1.git fetch 
+      -downloads the latest changes from the remote repository but does not apply them to your current branch.
+
+   2.git pull 
+      -downloads the changes and also updates your current branch with those changes.
+
+
+
+3. Create a new GitHub repository, push any small text file from your local system, and share the repo link.
+
+     I created a GitHub repository and added a small text file from my local system. Then I pushed the file to the remote repository and shared   the repository link.
+
+     - https://github.com/MaliGautamDev/tops-git-practice
+
+
+4. What is the difference between a Fork and a Pull Request? Answer in 2 lines.
+
+    1.Fork
+       - creates a copy of someone else's repository in your own GitHub account.
+
+    2.Pull Request
+       - is used to propose your changes to the original repository so the owner can review and merge them.
+
+
+5. Create a new branch named feature-test, make one commit on it, and merge it back to the main branch. Write the commands you used.
+
+
+
+      PS C:\Users\mayur\OneDrive\Desktop\tops-git-practice> git checkout -b feature-test
+      Switched to a new branch 'feature-test'
+      PS C:\Users\mayur\OneDrive\Desktop\tops-git-practice> git add .
+      PS C:\Users\mayur\OneDrive\Desktop\tops-git-practice> git commit -m "Add feature test"
+      [feature-test 78917c6] Add feature test
+      1 file changed, 2 insertions(+), 1 deletion(-)
+      PS C:\Users\mayur\OneDrive\Desktop\tops-git-practice> git checkout main
+      Switched to branch 'main'
+      Your branch is up to date with 'origin/main'.
+      PS C:\Users\mayur\OneDrive\Desktop\tops-git-practice> git merge feature-test
+      Updating 70e768c..78917c6
+      Fast-forward
+      hello.txt | 3 ++-
+      1 file changed, 2 insertions(+), 1 deletion(-)
+      PS C:\Users\mayur\OneDrive\Desktop\tops-git-practice> git checkout -b feature-test
+      fatal: a branch named 'feature-test' already exists
+      PS C:\Users\mayur\OneDrive\Desktop\tops-git-practice>
+
+
+
+
+

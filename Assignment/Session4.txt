@@ -1,0 +1,79 @@
+1. List all 6 phases of SDLC in order with one line about each.
+
+    1.Requirement 
+       – In this phase, we understand what the client or user needs from the software.
+
+    2.Design 
+       – The structure, UI and overall design of the software are planned.
+
+    3.Development 
+       – Developers write the code and build the software.
+
+    4.Testing 
+       – The software is tested to find bugs and check whether it works properly.
+
+    5.Deployment 
+       – The completed software is released and made available to users.
+
+    6.Maintenance 
+       – After release, bugs are fixed and new changes or improvements are added.
+
+
+
+2. Write 3 differences between Agile and Waterfall models.
+
+
+    1.Agile
+
+      - Work is done in small iterations and changes can be made easily.
+      - Customer feedback can be taken regularly during development.
+      - Testing and development can happen repeatedly during the project.
+
+
+    2.Waterfall
+
+       - Work is completed phase by phase in a fixed order.
+       - Customer feedback usually comes after major stages or development.
+       - Testing generally comes after the development phase.
+
+
+
+3. Name the 3 main Scrum roles and write one-line responsibility of each.
+
+
+   1.Product Owner 
+      – Manages the product requirements and decides what features are most important.
+
+   2.Scrum Master 
+      – Helps the team follow Scrum and removes problems that affect the team's work.
+
+   3.Development Team 
+      – Builds, tests and delivers the product features.
+
+
+
+4. What is a Sprint in Scrum? Mention its typical duration.
+
+
+
+    - A Sprint is a fixed period in which the Scrum team works on selected tasks and tries to complete them.
+
+      Typical duration: 2 weeks.
+
+
+
+5. What do these Jira board columns mean: To Do, In Progress, Done, Backlog?
+
+
+    1.To Do 
+      – Tasks that are planned but work has not started yet.
+
+    2.In Progress 
+      – Tasks that are currently being worked on.
+
+    3.Done 
+      – Tasks that have been completed.
+
+    4.Backlog 
+       – A list of tasks or requirements that are planned for future work.
+

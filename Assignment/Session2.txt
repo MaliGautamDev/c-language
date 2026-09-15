@@ -1,0 +1,39 @@
+1. What are the three main layers of software architecture? Write one line about each.
+
+1.UI (User Interface)
+  – It is the part of the application that the user sees and interacts with.
+2.Business Logic
+  – It handles the main rules, calculations and decisions of the application.
+3.Database
+  – It is used to store and manage the data of the application.
+
+
+2. Define client and server in your own words with one real-life example.
+
+1.Client
+  – A client is a device or application that sends a request to a server.
+
+2.Server
+  – A server receives the request, processes it and sends a response back.
+
+Example: 
+  - When we open Instagram and refresh the feed, the Instagram app acts as the client and requests the latest posts from the server.
+
+
+3. Write 2 differences each between desktop apps, web apps, and mobile apps.
+
+1.Desktop App(It runs on a computer or laptop.)
+  -Usually it needs to be installed on the device.
+
+2.Web App(It runs through a web browser.)
+  -It can be accessed using a website without installing a separate app.
+
+3.Mobile App(It is designed for smartphones and tablets.)
+  -It is usually installed through an app store or APK.
+
+
+4. Name any 3 databases and mention whether each is SQL or NoSQL.
+
+1.MySQL - MySQL
+2.PostgreSQL - SQL
+3.MongoDB - NoSql
